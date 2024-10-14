@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTheory", "GraphTheory\GraphTheory.csproj", "{BFAA95F8-1DFB-4FB8-9BBE-D3C239E760ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTheory.Tests", "GraphTheory.Tests\GraphTheory.Tests.csproj", "{0950FEE8-2286-4EEE-B6FB-61368172A02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAA95F8-1DFB-4FB8-9BBE-D3C239E760ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAA95F8-1DFB-4FB8-9BBE-D3C239E760ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAA95F8-1DFB-4FB8-9BBE-D3C239E760ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAA95F8-1DFB-4FB8-9BBE-D3C239E760ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0950FEE8-2286-4EEE-B6FB-61368172A02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950FEE8-2286-4EEE-B6FB-61368172A02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950FEE8-2286-4EEE-B6FB-61368172A02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950FEE8-2286-4EEE-B6FB-61368172A02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
